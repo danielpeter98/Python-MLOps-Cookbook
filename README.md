@@ -1,7 +1,7 @@
 [![Python application test with Github Actions](https://github.com/noahgift/Python-MLOps-Cookbook/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/noahgift/Python-MLOps-Cookbook/actions/workflows/pythonapp.yml)
 [![Python application test with AWS Code Builde](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiSjN4ZXRiNllSOVlYWmZqQ2tyS05OOC8wUElNZ05uUFZkVDdKSHVrNzU2L2FzajJXUmlKUngxUkFvOGFTaStMNW9rOUJSS0VTWFRadVpHdWgyN1BLMjA4PSIsIml2UGFyYW1ldGVyU3BlYyI6IjB0anA4VWxkNFBvejJIcE0iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
-# Python MLOps Cookbook 
+# Python ML Ops CookBook 
 This is an example of a Containerized Flask Application the can be the core ingredient in many "recipes", i.e. deploy targets..
 
 ![mlops-color](https://user-images.githubusercontent.com/58792/121539559-c6787e80-c9d3-11eb-9f48-5d25924fad25.png)
@@ -13,7 +13,7 @@ This is an example of a Containerized Flask Application the can be the core ingr
 Feel free to test my ML project:  `docker pull ghcr.io/noahgift/python-mlops-cookbook:latest`
 
 
-## Assets in repo
+## Assets in Repo
 
 * `Makefile`:  [View Makefile](https://github.com/noahgift/Python-MLOps-Cookbook/blob/main/Makefile)
 * `requirements.txt`:  [View requirements.txt](https://github.com/noahgift/Python-MLOps-Cookbook/blob/main/requirements.txt)
@@ -247,4 +247,5 @@ This repository is focused on MLOps.  To see more about Data Storytelling, you c
 * [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
 * [Cloud Data Engineering](https://www.coursera.org/learn/cloud-data-engineering-duke?specialization=building-cloud-computing-solutions-at-scale)
 * [Cloud Machine Learning Engineering and MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale)
+
 
